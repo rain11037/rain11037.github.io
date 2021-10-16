@@ -1,0 +1,26 @@
+body {
+  background: #ffffd2;
+  font-family: cursive;
+}
+p {
+  color: #91b8ff;
+  
+}
+
+a:link{
+  color: #91b8ff;
+}
+a:visited{
+  color: #ff91a5;
+}
+li{
+  color: #91b8ff;
+}
+img{
+  float: left;
+  margin: 1%;
+}
+.header{
+  color: #ff91a5;
+  font-weight: bold;
+}
